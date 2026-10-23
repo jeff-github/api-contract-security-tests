@@ -1,0 +1,7 @@
+base_url: "http://localhost:3000"
+roles:
+  reader: "REPLACE_WITH_TEST_TOKEN"
+patients:
+  in_scope: ["demo-001"]
+  out_of_scope: ["demo-002"]
+endpoints: []

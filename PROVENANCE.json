@@ -1,0 +1,20 @@
+{
+  "edition": "Curated copy with sanitized defaults and new documentation",
+  "files": [
+    {
+      "source_name": "test_portal_api_v4.py",
+      "destination": "test_portal_api.py",
+      "original_sha256": "a5867190a8699196320df5b11bac712e0f30f718b8bb40947a788c4647f21b75"
+    },
+    {
+      "source_name": "portal_sec_qa.py",
+      "destination": "portal_sec_qa.py",
+      "original_sha256": "6d7781bd6a149bf5795f546e82b4a5fca7c2afd42e0e9b11228f5b0f5e897130"
+    },
+    {
+      "source_name": "miniyaml.py",
+      "destination": "miniyaml.py",
+      "original_sha256": "a2f581b8d4d948add8e10c96ee33d30e149c3bc6b8e507abe7d151558b4c42a4"
+    }
+  ]
+}
