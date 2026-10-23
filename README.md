@@ -27,6 +27,5 @@ accept 200 or 403; configure explicit role expectations in the security runner.
 CI checks compilation and collection, not a live API or security certification.
 
 ## Status
-Private portfolio preparation copy of existing project code. Original credentials,
-run data and environment defaults are excluded. No open-source license is granted;
-confirm ownership and sharing rights before making this repository public.
+Public portfolio edition of existing project code. Original credentials, captured
+run data, and environment defaults are excluded. See the limitations above.
